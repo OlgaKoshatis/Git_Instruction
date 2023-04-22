@@ -15,9 +15,8 @@ _`git --version`_.
 
 При первом использорвании Git необходимо представиться. Для этого нужно ввести в терминале 2 команды:
 ```
- `git config --global user.name "имя латинскими буквами"`
-
- `git config --global user.email "адрес электронной почты"`
+ git config --global user.name "имя латинскими буквами"
+ git config --global user.email "адрес электронной почты"
  ```
 
 
